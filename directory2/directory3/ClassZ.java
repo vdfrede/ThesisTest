@@ -6,6 +6,7 @@ public class ClassZ {
     public int n = 0;
     public ClassZ(){
 
+        
     }
     public String returnWord(){
         return word;

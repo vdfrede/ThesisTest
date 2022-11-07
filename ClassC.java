@@ -6,6 +6,7 @@ public class ClassC  {
     public ClassC(){
 
     }
+    
     public String returnWord(){
         return word;
     }

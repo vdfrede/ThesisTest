@@ -6,6 +6,7 @@ public class ClassD extends ClassC {
     public ClassD(){
 
     }
+    
     public String returnWord(){
         return word;
     }

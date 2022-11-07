@@ -12,6 +12,7 @@ public class ClassB  {
 
     public void returnInt() {
 
+        
     }
 
 }
